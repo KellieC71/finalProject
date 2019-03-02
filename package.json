@@ -7,8 +7,7 @@
 	},
 	"license": "MIT",
 	"scripts": {
-		"heroku-prebuild": "npm install --dev",
-		"start": "webpack-dev-server --open"
+		"start": "npm start"
 	},
 	"dependencies": {
 		"history": "^4.6.3",
